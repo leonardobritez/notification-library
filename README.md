@@ -1,3 +1,18 @@
+
+<img width="1536" height="1024" alt="AdobeExpressPhotos_4922fd8499ef43d996615feca9f31fa8_CopyEdited" src="https://github.com/user-attachments/assets/058aed39-fb99-4b1b-8008-33867d461111" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Notification Library (Java 17)
 
 Librería de ejemplo para una prueba técnica: una API común para Email, SMS y Push; plantillas intercambiables; validación; resultado y eventos de estado mediante Observer; envío asíncrono con `CompletableFuture`; política simple de reintentos; configuración con clases Java y tests unitarios.
